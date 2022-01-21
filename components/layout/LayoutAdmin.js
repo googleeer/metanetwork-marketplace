@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Header from "./Header";
 import PageHead from "./PageHead";
 import PageTitle from "./PageTitle";
-import Sidebar from "./Sidebar";
+import Sidebar from "./sidebar";
 
 const LayoutAdmin = ({
   headTitle,
