@@ -8,8 +8,8 @@ const Explore = () => {
       title: "Liguid Wave",
       price: 0.15,
       currentBid: 0.15,
-      img: "1.jpg",
-      avatar: "1.jpg",
+      img: "10.jpg",
+      avatar: "10.jpg",
     },
     {
       id: 2,

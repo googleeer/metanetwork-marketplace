@@ -31,7 +31,7 @@ function Item() {
                         <h3 className="mb-3">Brighten LQ</h3>
                         <div className="d-flex align-items-center mb-3">
                           <img
-                            src="/images/avatar/1.jpg"
+                            src="/images/avatar/10.jpg"
                             alt=""
                             className="me-3 avatar-img"
                           />
@@ -69,7 +69,7 @@ function Item() {
                                 <div class="d-flex align-items-center">
                                   <div class="activity-user-img me-3">
                                     <img
-                                      src="/images/avatar/1.jpg"
+                                      src="/images/avatar/10.jpg"
                                       alt=""
                                       width="50"
                                     />

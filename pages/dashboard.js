@@ -48,7 +48,7 @@ function Home({ lineData, doughnutData }) {
                   <div className="col-md-6">
                     <div className="d-flex align-items-center mb-3">
                       <img
-                        src="/images/avatar/1.jpg"
+                        src="/images/avatar/10.jpg"
                         alt=""
                         className="me-3 avatar-img"
                       />
@@ -100,7 +100,7 @@ function Home({ lineData, doughnutData }) {
                   <div className="col-md-6">
                     <div className="d-flex align-items-center mb-3">
                       <img
-                        src="/images/avatar/1.jpg"
+                        src="/images/avatar/10.jpg"
                         alt=""
                         className="me-3 avatar-img"
                       />

@@ -33,7 +33,7 @@ function Test() {
                           <div className="d-flex align-items-center">
                             <div className="top-creators-user-img me-3">
                               <img
-                                src="/images/avatar/1.jpg"
+                                src="/images/avatar/10.jpg"
                                 alt=""
                                 width="60"
                               />
