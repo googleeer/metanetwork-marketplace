@@ -54,7 +54,7 @@ const Index = () => {
                 <div className="intro-slider">
                   <div className="slider-item">
                     <img
-                      src="/images/items/9.jpg"
+                      src="/images/items/cyberspace.png"
                       alt=""
                       className="img-fluid"
                     />
@@ -122,7 +122,7 @@ const Index = () => {
                 <div className="card">
                   <img
                     className="img-fluid card-img-top"
-                    src="/images/items/2.jpg"
+                    src="/images/items/gambler.png"
                     alt=""
                   />
                   <div className="card-body">

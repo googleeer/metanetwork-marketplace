@@ -15,7 +15,7 @@ const data = [
     title: "Liguid Wave",
     price: 0.15,
     currentBid: 0.15,
-    img: "2.jpg",
+    img: "gambler.png",
     avatar: "2.jpg",
     // desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, ea nisi facere odit ex modi earum commodi."
   },

@@ -31,7 +31,7 @@ function Test() {
                       <div className="card-body">
                         <div className="items-img position-relative">
                           <img
-                            src="/images/items/9.jpg"
+                            src="/images/items/cyberspace.png"
                             className="img-fluid rounded mb-3"
                             alt=""
                           />

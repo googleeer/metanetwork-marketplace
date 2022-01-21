@@ -11557,7 +11557,7 @@ strong {
 @media only screen and (max-width: 991px) {
   .navbar-toggler {
     position: absolute;
-    right: 120px;
+    right: 135px;
     top: 0;
   }
 }
