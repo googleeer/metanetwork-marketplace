@@ -16,7 +16,7 @@ function SettingsPreferences() {
 
         <div className="row">
           <div className="col-xxl-12">
-            <h4 className="card-title mb-3">Preperences</h4>
+            <h4 className="card-title mb-3">Preferences</h4>
             <div className="card">
               <div className="card-body">
                 <Preferences />
