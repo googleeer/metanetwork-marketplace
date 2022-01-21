@@ -22,7 +22,7 @@ function HeaderLanding() {
                     <Link href="/">
                       <a>
                         <img
-                          src="/images/logo-light.png"
+                          src="/images/logo-sm.png"
                           alt=""
                           className="logo-primary"
                         />

@@ -9,7 +9,7 @@ function Sidebar() {
         <div className="brand-logo">
           <Link href="/dashboard">
             <a className="full-logo">
-              <img src="./images/logo-light.png" alt="" />
+              <img src="./images/logo-sm.png" alt="" />
             </a>
           </Link>
           {/* <Link href="/">

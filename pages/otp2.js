@@ -18,7 +18,7 @@ function Otp2() {
               <div className="mini-logo text-center my-3">
                 <Link href="/">
                   <a>
-                    <img src="./images/logo-light.png" alt="" />
+                    <img src="./images/logo-sm.png" alt="" />
                   </a>
                 </Link>
                 <h4 className="card-title mt-5">2-Step Verification</h4>
