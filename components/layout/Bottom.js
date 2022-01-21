@@ -9,7 +9,7 @@ const Bottom = () => {
           <div className="row">
             <div className="col-xl-4 col-lg-4 col-md-7 col-sm-8">
               <div className="bottom-logo">
-                <img className="pb-3" src="/images/logoh.png" alt="" />
+                <img className="pb-3" src="/images/logo-light.png" alt="" />
 
                 <p>
                   METANETWORK an ecosystem that will unite GameFi, eSports, NFT
