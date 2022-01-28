@@ -59,7 +59,7 @@ const Index = () => {
                       className="img-fluid"
                     />
                     <div className="slider-item-avatar">
-                      <img src="/images/avatar/10.jpg" alt="" />
+                      <img src="/images/avatar/10.png" alt="" />
                       <div>
                         <h5>The Sandbox</h5>
                         <p>Sound Box</p>
@@ -228,7 +228,7 @@ const Index = () => {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
@@ -267,7 +267,7 @@ const Index = () => {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
@@ -306,7 +306,7 @@ const Index = () => {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
@@ -345,7 +345,7 @@ const Index = () => {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""

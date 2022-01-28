@@ -75,7 +75,7 @@ function Profile() {
               <div className="col-xxl-4 col-xl-12">
                 <div className="card welcome-profile">
                   <div className="card-body">
-                    <img src="./images/avatar/10.jpg" alt="" />
+                    <img src="./images/avatar/10.png" alt="" />
                     <h4>Welcome, Jannatul Maowa!</h4>
                     <p>
                       Looks like you are not verified yet. Verify yourself to

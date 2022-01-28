@@ -31,7 +31,7 @@ function Item() {
                         <h3 className="mb-3">Brighten LQ</h3>
                         <div className="d-flex align-items-center mb-3">
                           <img
-                            src="/images/avatar/10.jpg"
+                            src="/images/avatar/10.png"
                             alt=""
                             className="me-3 avatar-img"
                           />
@@ -69,7 +69,7 @@ function Item() {
                                 <div class="d-flex align-items-center">
                                   <div class="activity-user-img me-3">
                                     <img
-                                      src="/images/avatar/10.jpg"
+                                      src="/images/avatar/10.png"
                                       alt=""
                                       width="50"
                                     />
@@ -164,7 +164,7 @@ function Item() {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
@@ -203,7 +203,7 @@ function Item() {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
@@ -242,7 +242,7 @@ function Item() {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
@@ -281,7 +281,7 @@ function Item() {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""

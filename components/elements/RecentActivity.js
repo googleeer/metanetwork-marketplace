@@ -17,7 +17,7 @@ function RecentActivity() {
             >
               <div className="d-flex align-items-center">
                 <div className="activity-user-img me-3">
-                  <img src="/images/avatar/10.jpg" alt="" width="50" />
+                  <img src="/images/avatar/10.png" alt="" width="50" />
                 </div>
                 <div className="activity-info">
                   <h5 className="mb-0">Papaya</h5>
@@ -105,7 +105,7 @@ function RecentActivity() {
             >
               <div className="d-flex align-items-center">
                 <div className="activity-user-img me-3">
-                  <img src="/images/avatar/5.jpg" alt="" width="50" />
+                  <img src="/images/avatar/5.png" alt="" width="50" />
                 </div>
                 <div className="activity-info">
                   <h5 className="mb-0">Nature with Beauty</h5>

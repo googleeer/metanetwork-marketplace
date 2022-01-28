@@ -36,7 +36,7 @@ function Test() {
                             alt=""
                           />
                           <img
-                            src="/images/avatar/10.jpg"
+                            src="/images/avatar/10.png"
                             className="creator"
                             width="50"
                             alt=""

@@ -37,7 +37,7 @@ function SettingsProfile() {
                         alt=""
                       />
                       <img
-                        src="/images/avatar/5.jpg"
+                        src="/images/avatar/5.png"
                         className="creator"
                         width="50"
                         alt=""
